@@ -1,0 +1,7 @@
+SCA lezione interattiva - V76 FUNZIONANTE
+
+1. Estrai lo ZIP prima di aprire la pagina.
+2. Apri index.html con Chrome, Edge o Safari.
+3. La navbar è stata resa stabile e i pulsanti stampa sono stati corretti.
+4. Se la cartella assets/images non è presente, la pagina si apre comunque: al posto delle immagini mancanti compare un riquadro segnaposto.
+5. Per GitHub Pages carica index.html nella root del repository. Se hai la cartella assets/images originale, caricala mantenendo lo stesso percorso.

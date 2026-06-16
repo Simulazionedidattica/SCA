@@ -1,0 +1,12 @@
+SCA lezione interattiva - V75
+
+File principale: index.html
+Correzioni incluse:
+- navbar superiore e laterale riallineate
+- casi clinici e fonti corretti
+- pulsante stampa corretto
+- pulsanti stabilizzati senza intermittenze
+
+Nota immagini:
+il file richiama immagini nella cartella assets/images.
+Per GitHub Pages, caricare index.html insieme alla cartella assets/images mantenendo lo stesso percorso.
